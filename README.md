@@ -5,6 +5,6 @@ Greetings. In this zip file, I have included data related to GPT4. This data inc
 This zip file is the training data of the gpt language models that have been compiled and compiled for gpt4. This zip file has a password. To open it and get the password, send a message to this email or on GitHub.
 This WiFi has a price of 0.0005 Bitcoin.
 
-(ucicada0@gmail.com)
+(github4819@gmail.com)
 
 Send a message to buy it.
