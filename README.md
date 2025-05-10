@@ -6,5 +6,4 @@ This zip file is the training data of the gpt language models that have been com
 This WiFi has a price of 0.0005 Bitcoin.
 
 (github4819@gmail.com)
-
 Send a message to buy it.
